@@ -36,7 +36,7 @@ layers:
   - {t: ',', h: '$$mdi:apple-keyboard-command$$', s: <}
   - {t: ., h: '$$mdi:apple-keyboard-option$$', s: '>'}
   - {t: /, h: '$$mdi:apple-keyboard-control$$', s: '?'}
-  - '&csl 3'
+  - {t: Fn, h: '$$mdi:close-box$$'}
   - $$mdi:keyboard-tab$$
   - {t: '$$mdi:keyboard-space$$', h: '$$mdi:apple-keyboard-shift$$'}
   - {t: L2, h: '$$mdi:gesture-tap-hold$$', s: '$$mdi:alpha-w-box$$'}
